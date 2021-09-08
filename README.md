@@ -1,0 +1,1 @@
+# image-editing-on-Colab-using-the-VQGAN-CLIP-method
