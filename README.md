@@ -1,5 +1,9 @@
- # image-editing-VQGAN-CLIP
- A Google Colab notebook for interactive image editing using VQGAN and masking gradients
+
+# image-editing-VQGAN-CLIP
+ A Google Colab notebook for high preformence interactive image editing using VQGAN and masking gradients
+ 
+![ASDASD](https://user-images.githubusercontent.com/16742856/149363481-83fe21de-1890-4407-8138-f3c591d0dc21.png)
+
  
  **Sample:**
  
